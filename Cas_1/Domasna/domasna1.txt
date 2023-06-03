@@ -1,0 +1,5 @@
+1. Declare a variable, assign different types of values to it (boolean, number, string) 
+   and print the value and type of the variable each time.
+2. Write a JavaScript program that will calculate the price of 30 Phones,
+   where the price of one phone is $119.95 and the tax rate is 5%.
+3. Write a JavaScript program that will calculate area of Circle. (area = π * r2)

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vezba2</title>
+    <script type="text/javascript">
+
+        // Write a JavaScript program that will calculate the price of 30 Phones,
+        // where the price of one phone is $119.95 and the tax rate is 5%.
+
+        var tax = 5;
+        var phone = parseFloat(119.95);
+        console.log("Cenata na eden telefon iznesuva: " + phone + " $, a tax rate iznesuva: " + tax + "%.");
+        var phone1 = parseFloat(phone * (1 + tax / 100));
+        console.log("Cenata na eden telefon so vkluchen tax rate iznesuva: " + phone1 + "$.");
+        var total = parseFloat(phone1 * 30);
+        console.log("Cenata za 30 telefoni so vklucen tax rate iznesuva: " + total + "$.");
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
