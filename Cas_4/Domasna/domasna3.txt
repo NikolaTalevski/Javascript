@@ -1,0 +1,34 @@
+1. Create a function called tellStory()
+
+The function should 3 strings as arguments: name, mood, activity ( All strings )
+
+The function should return one big string with a story made from the arguments
+
+Example: This is *name*. *name* is a nice person. Today they are *mood*. They are *activity* all day. The end.
+
+The value that is returned from the function should be printed in the console or in alert
+
+2. Write a function that takes two numbers: the numbers of girls and boys in a team. Print these numbers in console, but add girls and boys correspondingly after them. Example, if the input is 4, 7, the function should print 4 girls 7 boys.
+
+Bonus:
+
+For numbers less than 10, add 0 before them. For the bove example that would be 04 girls 07 boys.
+
+3. Write a JavaScript function that will:
+
+calculate and return your dog's age based on the conversion rate of 1 human year to 7 dog years.
+ Print the following message: Your dog's age is NN years. NN is the calculated age;
+Note: Call the function and pass human years as input.
+Bonus: Make function for converting dog to human years as well
+
+4. CREATE OBJECT ANIMAL WITH 2 PROPERTIES AND 1 METHOD:
+-name
+-kind
+-speak (method)
+this method will take one parameter and will print in the console a message: e.g. dog.speak(“hey bro!!!”) will log in the console “Dog Bonnie says: ‘Hey bro!!!’”
+
+5. Write a JavaScript program to display the reading status of some book. The object should have the next properties: 
+title, author, readingStatus and a method that will return info depending on the readingStatus e.g.
+
+Already read 'The Robots of dawn' by Isaac Asimov. (when readingStatus is true)
+You still need to read 'Mockingjay: The Final Book of The Hunger Games' by Suzanne Collins. (when readingStatus is false).
