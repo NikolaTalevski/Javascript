@@ -83,6 +83,14 @@
 
 // CelToFah(30);
 // FahToCel(140);
+
+
+// function CtoF(Celsius) {
+//     let Celsius1 = Celsius * 1.8 +32;
+//     return Celsius1;
+// }
+// let Celsius2 = CtoF(30);
+// console.log(Celsius2)
 // -----------------
 
 
@@ -97,7 +105,7 @@
 //     // promenlivaVoFunkcija = 18; => poradi toa sto nema var koga se kreira promenlivata pod default se kreira globalna promenliva(Ova ne treba da se slucuva i se smeta za greska)
 //     return brojka;
 // }
-// console.log(brojka);
+// // console.log(brojka);
 // console.log(nekojaFunkcija());
 // var novaBrojka = nekojaFunkcija();
 // console.log(novaBrojka);
@@ -152,22 +160,22 @@
 // ------------------------------------
 // VEZBA 3
 
-let me = {
-    ime: "Nikola",
-    prezime: "Talevski",
-    age: 26,
-    height: 200,
-    isWorking: true,
+// let me = {
+//     ime: "Nikola",
+//     prezime: "Talevski",
+//     age: 26,
+//     height: 200,
+//     isWorking: true,
 
-    watchTV: function() {
-        console.log(`${this.ime} ${this.prezime} is watching TV.`);
-    }
-}
-console.log(me.ime);
-console.log(me.prezime);
-console.log(me.age);
-console.log(me.height);
-console.log(me.isWorking);
-me.watchTV();
+//     watchTV: function() {
+//         console.log(`${this.ime} ${this.prezime} is watching TV.`);
+//     }
+// }
+// console.log(me.ime);
+// console.log(me.prezime);
+// console.log(me.age);
+// console.log(me.height);
+// console.log(me.isWorking);
+// me.watchTV();
 
 // ---------------------------------

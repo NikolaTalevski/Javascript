@@ -16,4 +16,3 @@ let Animal = {
 } 
 
 console.log(`${Animal.kind} ${Animal.name} says: ${Animal.speak()}`); 
-
