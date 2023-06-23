@@ -1,0 +1,32 @@
+1. Write a JavaScript function that will return:
+The sum of the MAX and MIN numbers from an array with numbers
+Ex: arr = [3, 5, 6, 8, 11]
+Output: Max: 11, Min: 3, Sum: 14
+
+2. Write a javascript function that:
+When given 2 arrays of students firstNames and lastNames will return a new array with students full names
+Every name should have a numeric value before it
+Ex: first = ["Bob", "Jill"], last = ["Gregory", "Wurtz"]
+Result: full = ["1. Bob Gregory", "2. Jill Wurtz"]
+
+3.  Write a loop in JavaScript that in range from 1 till 20 will write in the console every number, 
+and will add the "\n" new line after every even number otherwise it will add " " empty space.
+How it should look in the console: 
+1 2
+3 4
+5 6
+7 8
+9 10
+11 12
+13 14
+15 16
+17 18
+19 20
+
+4. Write a JavaScript program that will read in a number and will multiply its digits.
+
+5. Create two arrays, one with numbers, and one empty. Then fill the empty array with the same numbers from the first array 
+but with oposite order. Use while or for. Example:
+firstArray = [1, 2, 3, 4, 5];
+secondArray = [5, 4, 3, 2, 1];
+ 
