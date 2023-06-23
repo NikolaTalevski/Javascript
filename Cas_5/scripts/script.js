@@ -63,7 +63,7 @@ academy: "Semos",
 lecture: "Objects",
 
 getFullName: function (){
-    let NS = this.name + this.lastName;
+    let NS = `${this.name} ${this.lastName}`;
     return NS;
 }
 }
