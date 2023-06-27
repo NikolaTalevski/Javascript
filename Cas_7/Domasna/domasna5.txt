@@ -1,0 +1,15 @@
+1. How many times is a number contained in an array
+
+Write a function named findNumber that:
+Takes 2 arguments: number, array
+Calculates how many times the number is contained in an array with numbers
+Outputs the result to the screen like so: "There is 4 occurrences of number 5 in the array"
+Call the function three times with different arrays.
+
+2. Try to write a function that finds factorial of a number. You must use recursion. Example for factorial: factorial of 5 is 5*4*3*2*1 = 120,
+ factorial of 3 is 3*2*1 = 6, factorial of 1 is 1.
+
+3. Create an array of five first names and an array of five last names. Create a new array that will have same number of elements as the
+other two arrays, but the elements will be fullnames. Use for loop and a function to create a full name, where the first argument will be
+the first name (from the first array) and the second argument will be last name( from the second array). The function will return full name.
+Print all the full names with higher order function forEach().
