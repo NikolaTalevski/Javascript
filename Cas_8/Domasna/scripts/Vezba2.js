@@ -7,9 +7,9 @@ title.innerText = "Cool page !!!";
 let p1 = document.querySelector(".paragraph");
 p1.innerText = "This exercise is pretty easy to solve!!!";
 
-let p2 = document.querySelector(".paragraph_second");
+let p2 = document.querySelectorAll("p")[1];
+// Vaka go targetirav, zatoa sto ima prazno mesto vo imeto na klasat vo html, pa ne mozi preku klasa da se targetira.
 p2.innerText = "Really, it is easier than i thought!!!";
-// Klasata beshe 'paragraph second', dodajv _ izmegu vo imeto na klasata.
 
 let title2 = document.querySelectorAll("h1")[1];
 title2.innerText = "Yes, your're right. This should be changed!!!";
