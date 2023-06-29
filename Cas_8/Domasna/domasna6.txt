@@ -1,0 +1,31 @@
+1. Create a Constructor function for product. Each product has property name, category, hasDiscount and price. Create an array of 15 products. Now answer the following requirements:
+
+Find all products with price greater than 20.
+Get the names of all products of Category Food, that are on discount.
+The average price of all products that are on discount.
+Find the name and price of all products with name starting with a vowel, that are not on discount.
+Sort the products by price, ascending.
+
+Use higher order functions!
+
+2. Change the text of all paragraphs and headers with javascript
+Note:The html must not be changed
+
+<div id="first" class="aDiv">
+  <h1 id="myTitle">Yea! Cool page</h1>
+  <p class="paragraph">
+    This is an exercise. It's pretty easy
+  </p>
+</div>
+<div class="anotherDiv">
+  <p class="paragraph second">
+    No really, It's easy!
+  </p>
+  <text> 
+    It's about selecting elements and 
+  </text>
+</div>
+<div>
+  <h1>This should be changed</h1>
+  <h3>And also this!</h3>
+</div>
