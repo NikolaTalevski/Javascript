@@ -1,0 +1,29 @@
+1. Create an array with numbers
+Print all numbers from the array in a list element.
+Print out the sum of all of the numbers below the list
+Bonus: Try printing the whole mathematical equasion as string as well ( 2 + 4 + 5 = 11)
+
+2.Write a function named weightInChickens that:
+Takes an input weigh in kilograms
+Calculates weight in chickens ( 1 chicken = 0.5kg )
+The input should be entered through prompt
+The result should be shown in the HTML of the page
+Note:The html page needs to have title and result paragraph
+
+3. Ask the user for the name of the recipe
+Ask the user how many ingredients do we need for the recipe
+Ask the user for the name of every ingredient
+Print the name of the recipe in the HTML as heading element, ex: h1-h6
+Print all ingredients as an unordered list in the HTML
+
+4. Title generator:
+Create 3 inputs:
+Color
+FontSize
+Text
+Create a button for generating titles
+When the button is clicked generate a new h1 element with the color, font size and text from the inputs
+
+5. Call the https://jsonplaceholder.typicode.com/ api to get one todo on click of a button
+Link: https://jsonplaceholder.typicode.com/todos
+Print the id, title and if completed print Completed, else print Not Completed.
