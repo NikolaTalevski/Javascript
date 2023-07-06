@@ -215,9 +215,9 @@ console.log(nizaOdFunkcii[2](2, 3));
 
 // let timeout = setTimeout(()=>{
 //     alert("hi");
-// }, 7000); 7000 se milisekundi, odnosno 7 sekundi
+// }, 3000); //7000 se milisekundi, odnosno 7 sekundi
 
-// clearTimeout(timeout);
+// // clearTimeout(timeout);
 
 
 
@@ -225,7 +225,7 @@ console.log(nizaOdFunkcii[2](2, 3));
 
 // let interval = setInterval(()=>{
 //     alert("Interval");
-// }, 5000);
+// }, 2000);
 
 // clearInterval(interval);
 
